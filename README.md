@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  * Business experience developing and deploying NLP models with a range of different approaches, including Tf-Idf, Word Vectors, and Transformers.
  * In-depth knowledge of the whole Python data stack including Pandas, scikit-learn, xgboost, Keras, huggingface, gensim, matplotlib, plotly, seaborn, among others.
  * Can create effective dashboards with PowerBI.
- * Can fetch data from a variety of sources including MySQL, Hadoop, Spark, MongoDB.
+ * Can fetch data using several tools including SQL, Hadoop, Spark, MongoDB.
  * Equally comfortable working in Windows and Unix environments.
  * Some experience with Azure.
  
@@ -30,3 +30,10 @@ Here are some ideas to get you started:
  * Waste Management
  * Computational Chemistry
  * Computational Biophysics
+
+## Non-technical stuff
+
+ * Father and husband.
+ * Interested in History, especially Ancient History.
+ * Amateur woodworker.
+ * Heavy Metal singer.
